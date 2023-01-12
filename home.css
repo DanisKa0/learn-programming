@@ -5,3 +5,7 @@
 .link{
     color: white; 
 }
+.link {
+  float: left; 
+  padding-left: 364px;
+}
